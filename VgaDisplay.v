@@ -1,5 +1,7 @@
 module VgaDisplay(
-			
+			clk,
+			rst,
+			en
 		);
 
 
