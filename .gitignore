@@ -1,0 +1,8 @@
+#ignore backup files
+*.bak
+#ignore folds
+db/
+output_files/*.vwf
+incremental_db/
+greybox_tmp/
+
